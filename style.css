@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(-65deg,rgb(228, 76, 114),rgb(86, 243, 217));
+}
+.navbar{
+    background-image: linear-gradient(-120deg,rgb(42, 163, 219),rgb(196, 31, 108));
+}
+.card{
+    background-color: rgba(224, 240, 79, 0.911);
+}
+.form-control{
+    background-color: rgba(250, 240, 244, 0.603);
+    
+}
